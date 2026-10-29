@@ -16,5 +16,5 @@
 | 3 | 2-a | Codex / GPT-6.1 Sol | `prompts/2-…` run a | prompts/2-write-adr.md, docs/adr/template.md, exercise/outputs/2a-adr.md | OK | 5| |
 | 4 | 2-b | Codex / GPT-6.1 Sol | `prompts/2-…` run b | prompts/2-write-adr.md, docs/adr/template.md, docs/scenario.md, docs/adr/0001-use-redis-for-cart-storage.md, system/online-boutique/src/checkoutservice/main.go | OK | 5 | |
 | 5 | 3 | Codex / GPT-6.1 Sol | `prompts/3-…` | AGENTS.md, prompts/3-review-adr.md, docs/adr/0002-use-rabbit.md, docs/scenario.md| OK | 4 | |
-| 6 | | | | | | | |
+| 6 | 5-bonus | Codex / GPT-6.1 Sol | prompt-bonus | exercise/bonus-recover-decision.md, prompts/bonus-recover-decision.md, docs/adr/template.md, system/online-boutique/protos/demo.proto, system/online-boutique/src/checkoutservice/main.go, system/online-boutique/src/frontend/main.go, exercise/outputs/bonus-recovered-adr.md | OK | 5 | |
 | 7 | | | | | | | |
